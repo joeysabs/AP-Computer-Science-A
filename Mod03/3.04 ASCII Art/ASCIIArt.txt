@@ -1,0 +1,12 @@
+	 \/
+	 /\
+xxxxxxxxxxxxxxxxxxxxx
+x___________________x
+x*****|*    * |*****x
+x  *  |* *  * |  *  x
+x  *  |*  * * |  *  x
+x  *  |*   ** |  *  x
+x  *  |*    * |  *  x
+xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx
